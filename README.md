@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-https://ofunkey.github.io/D3-challenge/.
+https://ofunkey.github.io/D3-challenge/D3_data_journalism/MainCode/index.html.
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
