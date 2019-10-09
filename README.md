@@ -11,7 +11,7 @@ The data set included with the work is based on 2014 ACS 1-year estimates: [http
 
 ### D3 News
 
-![scatter](Images/scatter.png)
+![scatter](https://github.com/ofunkey/D3-challenge/blob/master/D3_data_journalism/Images/scatter.png)
 
 * Create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`, that represents each state with circle elements. 
 
@@ -19,14 +19,14 @@ The data set included with the work is based on 2014 ACS 1-year estimates: [http
 
 * Create and situate the axes and labels to the left and bottom of the chart.
 
-![tooltip](Images/tooltip.png)
+![tooltip](https://github.com/ofunkey/D3-challenge/blob/master/D3_data_journalism/Images/tooltip.png)
 
 * Incorporate click events so that users can decide which data to display. 
 
-![animated-scatter](Images/animated-scatter.gif)
+![animated-scatter](https://github.com/ofunkey/D3-challenge/blob/master/D3_data_journalism/Images/animated-scatter.gif)
 
 * Incorporate d3-tip and add tooltips to the circles and display each tooltip with the data that user has selected.
 
-![animated-tooltip](Images/animated-tooltip.gif)
+![animated-tooltip](https://github.com/ofunkey/D3-challenge/blob/master/D3_data_journalism/Images/animated-tooltip.gif)
 
 
